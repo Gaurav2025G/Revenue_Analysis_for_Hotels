@@ -30,7 +30,3 @@ This project consolidates hotel booking, room, and guest data into an interactiv
 - DAX
 - GitHub
 
-
-
-## 👤 Author
-**Gaurav Raipurkar**
